@@ -1,7 +1,7 @@
 {
   "com.tubeplay.mp3.musicdownloader": [
     {
-      "new_package_name": "null",
+      "new_package_name": "",
       "store_name": "Ultimate+Video+Downloader+-+Media+Player",
       "send_update": false,
       "download_enable": true,
@@ -17,11 +17,11 @@
       "new_package_name": "",
       "store_name": "Ultimate+Video+Downloader+-+Media+Player",
       "send_update": false,
-      "download_enable": false,
+      "download_enable": true,
       "ad_network": "AdMob",
       "max_click": 4 ,
-      "admob_banner": "",
-      "admob_interstitial": "",
+      "admob_banner": "ca-app-pub-6051657646945766/7272830214",
+      "admob_interstitial": "ca-app-pub-6051657646945766/4912350631",
       "ironsource_app_key": "21e3e975d"
     }
   ],
