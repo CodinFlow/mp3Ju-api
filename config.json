@@ -18,7 +18,7 @@
       "store_name": "Ultimate+Video+Downloader+-+Media+Player",
       "send_update": false,
       "download_enable": true,
-      "ad_network": "AdMob",
+      "ad_network": "IronSource",
       "max_click": 1 ,
        "admob_banner": "ca-app-pub-6051657646945766/7272830214",
        "admob_interstitial": "ca-app-pub-6051657646945766/4912350631",
