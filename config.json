@@ -8,8 +8,8 @@
       "ad_network": "AdMob",
       "max_click": 2 ,
       "admob_banner": "ca-app-pub-6051657646945766/2675052182",
-      "admob_interstitial": "ca-app-pub-6051657646945766/1452861044",
-      "ironsource_app_key": "21e3e975d"
+      "admob_interstitial": "ca-app-pub-6051657646945766/1452861044"
+      
     }
   ],
   "tubidy.videodownloader.musicdownloader": [
@@ -17,12 +17,12 @@
       "new_package_name": "",
       "store_name": "Ultimate+Video+Downloader+-+Media+Player",
       "send_update": false,
-      "download_enable": true,
+      "download_enable": false,
       "ad_network": "AdMob",
-      "max_click": 1 ,
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "ironsource_app_key": ""
+      "max_click": 2 ,
+      "admob_banner": "ca-app-pub-6051657646945766/7272830214",
+      "admob_interstitial": "ca-app-pub-6051657646945766/4912350631"
+      
     }
   ],
   "auto_complete_songs": [
