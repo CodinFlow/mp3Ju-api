@@ -1,9 +1,23 @@
 {
-  "de.musicplayer.ultimate.downloader": [
+  "in.musicplayer.ultimate.downloader": [
     {
       "new_package_name": "com.tubeplay.mp3.musicdownloader",
       "store_name": "Ultimate+Video+Downloader+-+Media+Player",
       "send_update": false,
+      "download_enable": true,
+      "ad_network": "AdMob",
+      "max_click": 1 ,
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "native_ad_unit_id" : "ca-app-pub-3940256099942544/2247696110"
+      
+    }
+  ],
+  "de.musicplayer.ultimate.downloader": [
+    {
+      "new_package_name": "com.tubeplay.mp3.musicdownloader",
+      "store_name": "Ultimate+Video+Downloader+-+Media+Player",
+      "send_update": true,
       "download_enable": false,
       "ad_network": "AdMob",
       "max_click": 1 ,
