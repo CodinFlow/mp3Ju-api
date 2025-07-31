@@ -3,7 +3,7 @@
     {
       "new_package_name": "com.tubeplay.mp3.musicdownloader",
       "store_name": "Ultimate+Video+Downloader+-+Media+Player",
-      "send_update": true,
+      "send_update": false,
       "download_enable": false,
       "ad_network": "AdMob",
       "max_click": 1 ,
