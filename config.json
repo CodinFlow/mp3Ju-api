@@ -32,8 +32,8 @@
       "new_package_name": "",
       "store_name": "Ultimate+Video+Downloader+-+Media+Player",
       "send_update": false,
-      "download_enable": false,
-      "ad_network": "",
+      "download_enable": true,
+      "ad_network": "AdMob",
       "max_click": 1 ,
       "admob_banner": "ca-app-pub-6051657646945766/2675052182",
       "admob_interstitial": "ca-app-pub-6051657646945766/1452861044"
@@ -58,9 +58,9 @@
       "new_package_name": "",
       "store_name": "Ultimate+Video+Downloader+-+Media+Player",
       "send_update": false,
-      "download_enable": true,
+      "download_enable": false,
       "ad_network": "AdMob",
-      "max_click": 1 ,
+      "max_click": 100 ,
       "admob_banner": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial": "ca-app-pub-3940256099942544/1033173712"
       
@@ -1745,6 +1745,7 @@
     }
   ]
 }
+
 
 
 
