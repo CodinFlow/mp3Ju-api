@@ -58,11 +58,11 @@
       "new_package_name": "",
       "store_name": "Ultimate+Video+Downloader+-+Media+Player",
       "send_update": false,
-      "download_enable": false,
+      "download_enable": true,
       "ad_network": "AdMob",
-      "max_click": 100 ,
-      "admob_banner": "",
-      "admob_interstitial": ""
+      "max_click": 1 ,
+      "admob_banner": "ca-app-pub-6051657646945766/1610510190",
+      "admob_interstitial": "ca-app-pub-6051657646945766/2469130449"
       
     }
   ],
@@ -1745,6 +1745,7 @@
     }
   ]
 }
+
 
 
 
