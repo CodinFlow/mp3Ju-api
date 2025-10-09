@@ -27,6 +27,7 @@
   ],
    "itube.tubeplay.mp4videodownloader": [
     {
+      "min_required_version": 14 ,
       "new_package_name": "",
       "store_name": "Ultimate+Video+Downloader+-+Media+Player",
       "send_update": false,
@@ -1717,6 +1718,7 @@
     }
   ]
 }
+
 
 
 
