@@ -6,7 +6,7 @@
       "send_update": false,
       "download_enable": true,
       "ad_network": "AdMob",
-      "max_click": 1 ,
+      "max_click": 10 ,
       "admob_banner": "",
       "admob_interstitial": ""
       
